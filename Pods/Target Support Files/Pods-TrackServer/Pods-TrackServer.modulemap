@@ -1,0 +1,6 @@
+module Pods_TrackServer {
+  umbrella header "Pods-TrackServer-umbrella.h"
+
+  export *
+  module * { export * }
+}
